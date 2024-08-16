@@ -1,6 +1,3 @@
---extra-index-url https://int.repositories.cloud.sap/artifactory/api/pypi/deploy-releases-pypi/simple
---trusted-host int.repositories.cloud.sap
-
 # Architecture
 The vacation planner application is a complex application that requires analysis of multiple factors while planning the vacation. The application needs to consider the availability of the user, the weather conditions at the destination, the currency exchange rates, and the language of the destination. The application also needs to book the tickets and make the hotel reservations for the user. So the application needs to interact with multiple tools such as the calendar, the travel booking website, and the hotel booking website. So we assume that the application has access to the following APIs:
 
