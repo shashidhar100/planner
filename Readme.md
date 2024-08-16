@@ -80,7 +80,9 @@ $ cd planner
 $ pip install -r requirements.txt
 $ chainlit run main.py
 ```
+Before this set you OPENAI_API_KEY in the environment variables or it will ask before running the application in the terminal
 
+![Demo Video](https://drive.google.com/file/d/1ckCylGtwX7dGf1POAj2qKybBntzjSijW/view?usp=drive_link)
 
 
 
